@@ -172,3 +172,28 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+### Scala ###
+.bsp/
+
+### Airflow ###
+*logs/
+*plugins/
+*__pycache__/
+*data/
+
+### local ###
+orc-env/
+.idea/
+project/
+.env
+notes/
+*notes.txt
+tools/
+*local.conf
+scripts
+ui-env/
+
+
+
